@@ -1,0 +1,76 @@
+@import "reset.css";
+
+.background {
+  height: 1800px;
+  width: 1440px;
+}
+.star {
+  height: 550px;
+  width: 550px;
+  position: fixed;
+  top: 120px;
+  left: 445px;
+}
+.jar {
+  height: 788.2px;
+  width: 559.7px;
+  position: absolute;
+  top: 870px;
+  left: 440.15px;
+}
+.instagram {
+  height: 60px;
+  width: 60px;
+  position: absolute;
+  top: 1640px;
+  left: 100px;
+}
+.vk {
+  height: 60px;
+  width: 60px;
+  position: absolute;
+  top: 1640px;
+  left: 220px;
+}
+h1 {
+  font-size: 290px;
+  color: #fff;
+  position: absolute;
+  text-align: center;
+  top: 100px;
+  font-family: Celestina, sans-serif;
+}
+h2{
+  font-size:75px;
+  color: #424B81;
+  position: absolute;
+  top: 755px;
+  left:100px;
+  font-family: Celestina, sans-serif;
+}
+a{
+  color:#fff;
+}
+p {
+  font-size: 48px;
+  font-family: Century Gothic, sans-serif;
+  position: absolute;
+  top: 1656px;
+  right:100px;
+}
+h3 {
+  font-size: 200px;
+  color: #fff;
+  position: absolute;
+  text-align: center;
+  top: 100px;
+  font-family: Celestina, sans-serif;
+}
+h4 {
+  font-size:80px;
+  color: #424B81;
+  position: absolute;
+  text-align: center;
+  top: 600px;
+  font-family: Century Gothic, sans-serif;
+}
